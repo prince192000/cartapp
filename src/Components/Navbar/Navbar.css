@@ -1,0 +1,31 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: yellow;
+}
+.navbar-container ul li{
+display: inline-block;
+padding: 10px;
+font-size: 22px;
+
+}
+.cart-png{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.cart-png a{
+    font-size: 35px;
+    color: black;
+}
+.cart-png h2{
+    font-size: 20px;
+    position: absolute;
+    left: 70%;
+   bottom: 20%;
+    background: white;
+    color: black;
+    border-radius: 50%;
+    padding: 3px 10px;
+}

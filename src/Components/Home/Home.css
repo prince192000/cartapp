@@ -1,0 +1,26 @@
+.container{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 87vh;
+}
+.button-1 button{
+ 
+    background: rgb(59, 224, 98);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.button-2 button{
+ 
+    background: rgb(214, 85, 34);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
